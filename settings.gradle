@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "LazyVerticalTitleGrid"
-include ':app'
+include ':sample'
 include ':LazyVerticalTitleGridLibrary'
