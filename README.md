@@ -24,10 +24,8 @@
 
 |GridCells|Screen(Vertical)|Screen(Horizontal)|
 |---|---|---|
-|GridCells.Adaptive(dp: Dp)|||
-|GridCells.Fixed(N)|||
-
-- 전체 동영상
+|GridCells.Adaptive(dp: Dp)|<img src="https://user-images.githubusercontent.com/59822833/165463002-4493cdc3-1795-4e81-980e-19c8f89471ec.jpg" width="200" height="400"/>|<img src="https://user-images.githubusercontent.com/59822833/165462793-583fb52e-5f21-4787-bff4-b5a4d7bcce3a.jpg" width="400" height="200"/>|
+|GridCells.Fixed(N)|<img src="https://user-images.githubusercontent.com/59822833/165463256-4c231e94-3f83-4efc-9e13-ef3537482052.jpg" width="200" height="400"/>|<img src="https://user-images.githubusercontent.com/59822833/165463498-7eefc1f2-1af6-4f36-a89f-daa966930297.jpg" width="400" height="200"/>|
 
 ## Usage
 
