@@ -66,5 +66,6 @@ dependencies {
 
     implementation 'io.coil-kt:coil-compose:2.0.0-rc01'
 
+    //Add [lazy-vertical-title-grid] dependency
     implementation 'com.github.olivia-soy:lazy-vertical-title-grid:1.0.2'
 }
