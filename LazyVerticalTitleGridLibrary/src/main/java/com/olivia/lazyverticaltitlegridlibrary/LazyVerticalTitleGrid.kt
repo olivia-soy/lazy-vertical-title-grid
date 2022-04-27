@@ -11,7 +11,7 @@ import kotlin.math.ceil
 
 /**
  * # LazyVerticalTitleGrid
- * # LazyVerticalGrid with Title
+ * # LazyVerticalGrid with TitleComposable
  * @author LEESOYOUNG
  * @since 2022-04-25
  */
